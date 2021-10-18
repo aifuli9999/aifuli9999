@@ -9,3 +9,6 @@ aifuli9999/aifuli9999 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 最新网址：aifuli.xyz
+最新的网址：aifuli.xyz
+最新网址：aifuli.xyz
+最新的网址：aifuli.xyz
